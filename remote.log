@@ -1,0 +1,1 @@
+a2fef613-50b0-4208-be3e-728263fe06d4 bucket=gabysbrain-datasets datacenter=US encryption=none host=s3.wasabisys.com name=wasabi port=80 protocol=https public=yes publicurl=http://gabysbrain-datasets.s3.eu-central-1.wasabisys.com storageclass=STANDARD type=S3 timestamp=1579189503.852804916s
