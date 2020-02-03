@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 jq -s add study_results_*.json | tee \
   study_results.all.json \
